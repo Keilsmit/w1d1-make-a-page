@@ -1,8 +1,38 @@
-.red-text {
-  color: red;
+body {
+  background-color: white;
+}
 
+.black-text {
+  color: black;
 }
 
 .big-font {
-  font-size: 500px;
+  font-size: 50px;
+}
+
+#footer {
+  color: white;
+  padding: 40px
+
+}
+.normal-font {
+  font-size: 14px;
+}
+
+button {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  padding: 20px;
+}
+
+footer {
+  background-color: black;
+  text
 }
